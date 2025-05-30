@@ -4,17 +4,17 @@
     "url": "https://gpsjam.org/",
     "icon": "https://icons.duckduckgo.com/ip3/gpsjam.org.ico",
     "slug": "gpsjam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 555,
-    "timeWeek": 588,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "time": 606,
+    "timeDay": 596,
+    "timeWeek": 593,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   }
 ]
