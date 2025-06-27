@@ -1,7 +1,7 @@
 url: https://gpsjam.org/
-status: up
-code: 200
-responseTime: 640
-lastUpdated: 2025-06-26T23:04:23.474Z
+status: down
+code: 502
+responseTime: 575
+lastUpdated: 2025-06-27T19:20:48.348Z
 startTime: 2025-05-04T03:52:06.704Z
 generator: Upptime <https://github.com/upptime/upptime>
